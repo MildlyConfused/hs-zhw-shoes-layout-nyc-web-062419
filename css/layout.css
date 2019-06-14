@@ -36,15 +36,17 @@
 }
 
 #bug{
-  
+  float: left;
+  width: 30;
 }
 
 #shoe{
-  
+  margin: 0, auto;
 }
 
 #heel{
-  
+  float: right;
+  width: 30%;
 }
 
 
