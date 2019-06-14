@@ -37,11 +37,12 @@
 
 #bug{
   float: left;
-  width: 30;
+  width: 30%;
 }
 
 #shoe{
   margin: 0, auto;
+  width: 30%;
 }
 
 #heel{
