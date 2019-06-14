@@ -25,11 +25,13 @@
 /* Positioning Classes */
 
 .fright{
-  float: right
+  float: right;
+  width: 25%;
 }
 
 .fleft{
-  float: left
+  float: left;
+  width: 75%;
 }
 
 
